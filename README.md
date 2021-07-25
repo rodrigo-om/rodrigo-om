@@ -7,7 +7,7 @@ Certified Product Owner by Scrum.org, experienced working with Scrum’s Agile M
 
 <br>
 ## Let's connect!
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/rodrigoom96/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigoom96/)
 <br>
 <br>
 ## Expertise and experience
