@@ -1,14 +1,12 @@
-### Hello World!
+### Hello World! 
+[<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigoom96/)
+
 I'm Rodrigo, I am a Developer 6 years experience total, with 4 years experience in Java and 2 years experience in .NET Core with exposure to other languages in different opportunities
 
 I’ve worked with different technologies and alignments between them, such as ElasticSearch, RabbitMQ (AMQP), MongoDB, SQL, AWS, Azure and Docker.
 
 Certified Product Owner by Scrum.org, experienced working with Scrum’s Agile Methodology, concerned with product beyond its technical part, and generating the highest possible value within each delivery
 
-## Let's connect!
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigoom96/)
-
-<br>
 <br>
 
 ## Expertise and experience
