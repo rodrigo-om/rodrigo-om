@@ -1,7 +1,7 @@
 ### Hello World! 
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigoom96/)
 
-I'm Rodrigo, I am a Developer 6 years experience total, with 4 years experience in Java and 2 years experience in .NET Core with exposure to other languages in different opportunities
+Developer with 7 years of experience in total, with 5 years experience in Java, 2 years experience in .NET Core with exposure to other languages in different opportunities such as Scala and Python.
 
 I’ve worked with different technologies and alignments between them, such as ElasticSearch, RabbitMQ (AMQP), MongoDB, SQL, AWS, Azure and Docker.
 
